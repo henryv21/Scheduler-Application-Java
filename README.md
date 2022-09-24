@@ -1,10 +1,7 @@
-# Scheduling Application - C195 Performance Evaluation 
+# Scheduling Application
 - Author: Henry Ventura
 - Version: 1.1
 - Date: 7/10/2022
-
-## PURPOSE:
-C195 WGU Performance Evaluation - Scheduling Application
 
 ## IDE and MySQL Connector Information:
 - IDE: IntelliJ IDEA 2021.1.3 (Community)
